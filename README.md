@@ -26,6 +26,6 @@ I added a conversion history feature that allows users to view previous calculat
 I learned how to use Python functions, loops, conditional statements, dictionaries, and exception handling. I also improved my understanding of engineering conversion formulas.
 
 ## Author
-Olamilekan Yusuf
+Adams Wahab Moyosola
 ND1 Mechatronics Engineering
 Yaba College of Technology (YabaTech).
